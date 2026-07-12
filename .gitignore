@@ -1,2 +1,4 @@
 /DemoJava.iml
 *.class
+.idea/
+out/
